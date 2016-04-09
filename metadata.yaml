@@ -1,0 +1,62 @@
+_repo: Daddy-Long-Legs_157
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Webster, Jean
+    aliases:
+    - McKinney, Jean Webster
+    - Webster, Alice Jean Chandler
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '99'
+    url: http://www.gutenberg.org/2009/agents/99
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Webster
+description: "Daddy-Long-Legs is a 1912 epistolary novel by the American writer Jean\
+  \ Webster. It follows the protagonist, a young girl named Jerusha \"Judy\" Abbott,\
+  \ through her college years. She writes the letters to her benefactor, a rich man\
+  \ whom she has never seen.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: School Stories
+gutenberg_issued: '1994-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '157'
+  wikidata: Q1156969
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Universities and colleges -- Fiction'
+- !lcsh 'Women college students -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcc 'PS'
+- !lcsh 'Schools -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Boarding schools -- Fiction'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Letters -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Philanthropists -- Fiction'
+- !lcsh 'Women authors -- Fiction'
+- GITenberg
+title: Daddy-Long-Legs
+url: http://www.gutenberg.org/ebooks/157
+wikipedia:
+- https://fr.wikipedia.org/wiki/Papa_longues_jambes
+- https://sh.wikipedia.org/wiki/Daddy-Long-Legs_(roman)
+- https://zh.wikipedia.org/wiki/%E9%95%B7%E8%85%BF%E5%8F%94%E5%8F%94
+- https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%97%E3%81%AA%E3%81%8C%E3%81%8A%E3%81%98%E3%81%95%E3%82%93
+- https://pl.wikipedia.org/wiki/Tajemniczy_opiekun
+- https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8%D8%A7_%D9%84%D9%86%DA%AF%E2%80%8C%D8%AF%D8%B1%D8%A7%D8%B2_(%D8%B1%D9%85%D8%A7%D9%86)
+- https://de.wikipedia.org/wiki/Daddy_Langbein
+- https://es.wikipedia.org/wiki/Papa%C3%ADto_Piernas_Largas
+- https://en.wikisource.org/wiki/Daddy-Long-Legs
+- https://en.wikipedia.org/wiki/Daddy-Long-Legs_(novel)
+- https://sv.wikipedia.org/wiki/Pappa_L%C3%A5ngben
+- https://it.wikipedia.org/wiki/Pap%C3%A0_Gambalunga
+- https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%A7_(%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A2)
+- https://ko.wikipedia.org/wiki/%ED%82%A4%EB%8B%A4%EB%A6%AC_%EC%95%84%EC%A0%80%EC%94%A8
+- https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%B2%D0%B3%D0%BE%D0%BD%D0%BE%D0%B3%D0%B8%D0%B9_%D0%B4%D1%8F%D0%B4%D0%B5%D1%87%D0%BA%D0%BE
+- https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%90_%D7%90%D7%A8%D7%9A_%D7%A8%D7%92%D7%9C%D7%99%D7%99%D7%9D_(%D7%A1%D7%A4%D7%A8)
